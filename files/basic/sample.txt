@@ -1,0 +1,2 @@
+This is my file which has some secret contents.
+There is more content in here
